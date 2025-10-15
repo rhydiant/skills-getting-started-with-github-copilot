@@ -94,7 +94,7 @@ section h3 {
 }
 
 .participants-section ul {
-  margin: 8px 0 0 18px;
+  margin: 8px 0 0 0;
   padding: 0;
 }
 
@@ -107,7 +107,6 @@ section h3 {
 .participants-section .no-participants {
   color: #888;
   font-style: italic;
-}
 }
 
 .form-group {
